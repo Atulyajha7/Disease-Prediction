@@ -1,0 +1,1 @@
+streamlit run "D:\web dev\Disease model\multiple disease pred.py"
